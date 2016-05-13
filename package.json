@@ -1,0 +1,29 @@
+{
+  "name": "build-styles-loader",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "webpack": "^1.9.11"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.3.6",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.8.5",
+    "isomorphic-style-loader": "^1.0.0",
+    "json5": "^0.4.0",
+    "json5-loader": "^0.6.0",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "node-sass": "^3.7.0",
+    "postcss-loader": "^0.9.1",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "yaml-loader": "^0.2.0"
+  }
+}
